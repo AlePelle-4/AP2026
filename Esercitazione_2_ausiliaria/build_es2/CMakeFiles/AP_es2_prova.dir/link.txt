@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wl,--dependency-file=CMakeFiles/AP_es2_prova.dir/link.d CMakeFiles/AP_es2_prova.dir/prova_2.cpp.o -o AP_es2_prova

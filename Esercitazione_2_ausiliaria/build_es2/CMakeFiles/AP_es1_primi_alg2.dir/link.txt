@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wl,--dependency-file=CMakeFiles/AP_es1_primi_alg2.dir/link.d CMakeFiles/AP_es1_primi_alg2.dir/primi_alg2.cpp.o -o AP_es1_primi_alg2

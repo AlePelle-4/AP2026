@@ -1,0 +1,5 @@
+/home/pcsdocker/Data/AP2026/Esercitazione_2_ausiliaria/build_es2/CMakeFiles/AP_es2_prova.dir
+/home/pcsdocker/Data/AP2026/Esercitazione_2_ausiliaria/build_es2/CMakeFiles/AP_es1_primi_alg2.dir
+/home/pcsdocker/Data/AP2026/Esercitazione_2_ausiliaria/build_es2/CMakeFiles/AP_es1_bubblesort.dir
+/home/pcsdocker/Data/AP2026/Esercitazione_2_ausiliaria/build_es2/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/AP2026/Esercitazione_2_ausiliaria/build_es2/CMakeFiles/rebuild_cache.dir
