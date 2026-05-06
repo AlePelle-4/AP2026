@@ -1,0 +1,6 @@
+Analizzando il grafico,  si osserva che bubblesort e selectionsort impiegano tempi minori di Mergesort su vettori di dimensioni ridotte. 
+D'altra parte, al crescere delle dimensioni, 'vince' il mergesort su di essi.
+Questo è in linea con il fatto che i bubblesort e selectionsort siano O(n^2) mentre mergesort è O(nlog n).
+Un discorso analogo vale per insertionsorte Quicksort.
+Difatti il primo è piu' rapido su vettori di piccole dimensioni, mentre il seccondo impiega tempo minore su vettori piu' grandi (a partire circa da lunghezza 150).
+Lo standard sort risulta essere il piu' rapido in assoluto, per vettori di ogni dimensione.
