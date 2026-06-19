@@ -1,0 +1,33 @@
+Start testing: Jun 19 09:30 UTC
+----------------------------------------------------------
+1/2 Testing: TestCircuito_de_Pina
+1/2 Test: TestCircuito_de_Pina
+Command: "/home/pcsdocker/Data/AP2026/progetto/test_circuito_de_pina" "/home/pcsdocker/Data/AP2026/progetto/Netlist_test.txt"
+Directory: /home/pcsdocker/Data/AP2026/progetto/build_mainz
+"TestCircuito_de_Pina" start time: Jun 19 09:30 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"TestCircuito_de_Pina" end time: Jun 19 09:30 UTC
+"TestCircuito_de_Pina" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: TestCircuito_cicli_fond
+2/2 Test: TestCircuito_cicli_fond
+Command: "/home/pcsdocker/Data/AP2026/progetto/test_circuito_cicli_fond" "/home/pcsdocker/Data/AP2026/progetto/Netlist_test.txt"
+Directory: /home/pcsdocker/Data/AP2026/progetto/build_mainz
+"TestCircuito_cicli_fond" start time: Jun 19 09:30 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"TestCircuito_cicli_fond" end time: Jun 19 09:30 UTC
+"TestCircuito_cicli_fond" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 19 09:30 UTC

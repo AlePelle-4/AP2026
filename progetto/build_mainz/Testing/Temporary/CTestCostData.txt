@@ -1,0 +1,4 @@
+TestCircuito_de_Pina 20 0.00232038
+TestCircuito_cicli_fond 20 0.00151305
+gradiente_coniugato 0 0
+---

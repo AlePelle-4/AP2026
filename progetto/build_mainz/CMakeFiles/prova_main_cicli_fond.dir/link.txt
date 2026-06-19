@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wl,--dependency-file=CMakeFiles/prova_main_cicli_fond.dir/link.d CMakeFiles/prova_main_cicli_fond.dir/main_cicli_fondamentali.cpp.o CMakeFiles/prova_main_cicli_fond.dir/timecounter.cpp.o -o /home/pcsdocker/Data/AP2026/progetto/prova_main_cicli_fond

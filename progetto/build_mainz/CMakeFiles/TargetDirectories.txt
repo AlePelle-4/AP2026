@@ -1,0 +1,7 @@
+/home/pcsdocker/Data/AP2026/progetto/build_mainz/CMakeFiles/prova_main_de_pina.dir
+/home/pcsdocker/Data/AP2026/progetto/build_mainz/CMakeFiles/prova_main_cicli_fond.dir
+/home/pcsdocker/Data/AP2026/progetto/build_mainz/CMakeFiles/test_circuito_de_pina.dir
+/home/pcsdocker/Data/AP2026/progetto/build_mainz/CMakeFiles/test_circuito_cicli_fond.dir
+/home/pcsdocker/Data/AP2026/progetto/build_mainz/CMakeFiles/test.dir
+/home/pcsdocker/Data/AP2026/progetto/build_mainz/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/AP2026/progetto/build_mainz/CMakeFiles/rebuild_cache.dir
